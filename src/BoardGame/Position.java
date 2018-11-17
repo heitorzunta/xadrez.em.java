@@ -12,19 +12,19 @@ public class Position {
 		this.column = column;
 	}
 	
-	public int getLinha() {
+	public int getRow() {
 		return row;
 	}
 
-	public void setLinha(int row) {
+	public void setRow(int row) {
 		this.row = row;
 	}
 
-	public int getColuna() {
+	public int getColumn() {
 		return column;
 	}
 
-	public void setColuna(int column) {
+	public void setColumn(int column) {
 		this.column = column;
 	}
 
